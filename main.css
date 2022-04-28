@@ -104,7 +104,7 @@ img.profile-pic {
 }
 
 .col.is-8 {
-	flex: none;
+	flex: row;
 	width: 80%;
 }
 
