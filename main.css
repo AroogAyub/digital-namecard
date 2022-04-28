@@ -133,6 +133,9 @@ img.profile-pic {
 .secondary-info {
 	height: 8%;
 }
+.QR {
+	height: 20%;
+}
 
 .bg-color-grey {
 	background-color: #F2F2F2;
