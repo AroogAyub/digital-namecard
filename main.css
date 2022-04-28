@@ -161,14 +161,14 @@ img.qr {
     font-family: 'Product Sans', sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .text-detail {
     font-family: 'Product Sans', sans-serif;
     font-weight: 300;
     color: #575757;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .bottom {
@@ -185,7 +185,8 @@ img.qr {
 	line-height: 48px;
 	font-family: "Product sans", sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: 400;
+	font-size:16px;
 }
 
 @media screen and (max-width: 600px) {
